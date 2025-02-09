@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sumukund, an Northeastern alumna and a developer at Target. 
-- 👀 I’m interested in AI, deep learning, and 3d modeling. 
-- 🌱 I’m currently learning Golang.
+- 👋 Hi, I’m @sumukund, an Northeastern alumna, current Masters (Computer Science) student at University of Minnesota, and a research engineer at Target. 
+- 👀 I’m interested in 3D modeling and the intersection of dance and technology. 
 - 📫 How to reach me: 
-mukund.su@northeastern.edu
+mukun017@umn.edu
+- My Homepage: https://sudarsna-mukund.surge.sh
 
 <!---
 sumukund/sumukund is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
